@@ -60,49 +60,50 @@
       echo '<div class="container">
       <div class="row" style="display: flex;">
         <div class="col-sm jumbotron" style="position: relative; left: -20px;">
-          <a href="https://www.tillys.com/product/retrospec-zed-44-sunset-longboard-skateboard/385276957.html?dwvar_385276957_color=957" class="d-block mb-4 h-100">
-            <img class="img-fluid img-thumbnail" src="images/RETROSPEC_Zed_Sunset_Longboard_Skateboard.png" alt="">
+          <a href="https://www.surfstationstore.com/products/sharp-eye-maguro-surfboard-futures" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="images/SHARP_EYE_MAGURO_SURFBOARD_FUTURES.png" alt="">
             <p>Detail List</p>
             <ul>
-              <li>Name: Retrospec Zed 44" longboard skateboard</li>
-              <li>Effortlessly cool and undeniably dapper</li>
-              <li>ZED masters both suburban streets and beachside boulevards</li>
-              <li>70x51mm PU wheels</li>
-              <li>LightweightAaluminum Trucks</li>
-              <li>44 sturdy inches of sustainably sourced bamboo and solid Canadian maple</li>
-              <li>Weight Limit: 220 lbs</li>
-              <li>Is Imported</li>
+              <li>Name: SHARP EYE MAGURO SURFBOARD FUTURES</li>
+              <li>Length: 67.2"</li>
+              <li>Width: 20"</li>
+              <li>Thickness: 2.50"</li>
+              <li>Volume: 30.3L</li>
+              <li>Fin Setup: Twin Futures</li>
+              <li>Tech: Poly</li>
+              <li>Tail Shape: Swallow</li>
             </ul>
           </a>
         </div>
         <div class="col-sm jumbotron">
-          <a href="https://www.tillys.com/product/retrospec-zed-44-green-flora-longboard-skateboard/385279957.html?dwvar_385279957_color=957" class="d-block mb-4 h-100">
-            <img class="img-fluid img-thumbnail" src="images/RETROSPEC_Zed_Green_Flora_Longboard_Skateboard.png" alt="">
+          <a href="https://www.surfstationstore.com/products/modern-falcon-surfboard-1?_pos=1&_sid=9c9909011&_ss=r" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="images/MODERN_FALCON_SURFBOARD.png" alt="">
             <p>Detail List</p>
             <ul>
-              <li>Name: Retrospec Zed 44" longboard skateboard</li>
-              <li>Effortlessly cool and undeniably dapper</li>
-              <li>ZED masters both suburban streets and beachside boulevards</li>
-              <li>Durable 70x51mm PU wheels</li>
-              <li>Lightweight Aluminum Trucks</li>
-              <li>44 sturdy inches of sustainably sourced bamboo and solid Canadian maple</li>
-              <li>Weight Limit: 220 lbs</li>
+              <li>Name: MODERN FALCON SURFBOARD</li>
+              <li>Length: 81.6"</li>
+              <li>Width: 21 1/4"</li>
+              <li>Thickness: 2 3/4"</li>
+              <li>Volume: 43.0</li>
+              <li>Fin Setup: Tri Fin FCS II</li>
+              <li>Tech: Poly</li>
+              <li>Tail Shape: Squash</li>
             </ul>
           </a>
         </div>
         <div class="col-sm jumbotron "style="position: relative; right: -20px;">
-          <a href="https://www.tillys.com/product/retrospec-zed-crimson-rising-44-longboard-skateboard/393800957.html?dwvar_393800957_color=957" class="d-block mb-4 h-100">
-            <img class="img-fluid img-thumbnail" src="images/RETROSPEC_Zed_Crimson_Rising_Longboard_Skateboard.png" alt="">
+          <a href="https://www.surfstationstore.com/products/firewire-hydronaut-lft-surfboard-futures?_pos=1&_sid=a9fa4cb73&_ss=r" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="images/FIREWIRE_DOMINATOR_2.0_HELIUM_SURFBOARD_FCS_II.png" alt="">
             <p>Detail List</p>
             <ul>
-              <li>Name: Retrospec Zed Crimson Rising 44" Longboard Skateboard<li>
-              <li>Effortlessly cool and undeniably dapper</li> 
-              <li>ZED masters both suburban streets and beachside boulevards</li> 
-              <li>Durable 70x51mm PU wheels</li> 
-              <li>Lightweight 7" Aluminum Trucks</li>
-              <li>44 sturdy inches of sustainably sourced bamboo and solid Canadian maple</li>
-              <li>ABEC-7 Bearings</li>
-              <li>Dimensions: 44" x 9.5"</li>
+              <li>Name: FIREWIRE DOMINATOR 2.0 HELIUM SURFBOARD - FCS II<li>
+              <li>Length: 70.8" or 73.2"</li>
+              <li>Width: 20 1/8" or 20 5/8"</li>
+              <li>Thickness: 2 7/16 or 2 9/16"</li>
+              <li>Volume: 31.5L or 36L</li>
+              <li>Fin Setup: 5-Fin FCS II</li>
+              <li>Tech: Helium</li>
+              <li>Tail Shape: Squash</li>
             </ul>
           </a>
         </div>
@@ -111,49 +112,50 @@
         echo '<div class="container">
       <div class="row" style="display: flex;">
         <div class="col-sm jumbotron" style="position: relative; left: -20px;">
-          <a href="https://www.tillys.com/product/retrospec-zed-nighttime-hills-41-longboard-skateboard/393802957.html?dwvar_393802957_color=957" class="d-block mb-4 h-100">
-            <img class="img-fluid img-thumbnail" src="images/RETROSPEC_Zed_Nighttime_Hills_Longboard_Skateboard.png" alt="">
+          <a href="https://www.surfstationstore.com/collections/surfboards/products/js-industries-monsta-box-2020-squash-tail-easy-rider-surfboard-fcs-ii?variant=32884379123773" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="images/JS_MONSTA_BOX_2020_SQUASH_TAIL_EASY_RIDER_SURFBOARD_FCS_II.png" alt="">
             <p>Detail List</p>
             <ul>
-              <li>Name: Retrospec Zed Nighttime Hills 41" Longboard Skateboard. 
-              <li>Our freshest longboard nods to mid-century surfer ambitions with a classic surfboard shape and feel</li> 
-              <li>ZED weaves California beach nostalgia with 41 inches bamboo and Canadian maple</li>
-              <li>70x51mm 85a PU wheels</li>
-              <li>ABEC-7 bearings</li> 
-              <li>Dimensions: 41" x 9.5"</li>
-              <li>Weight Limit: 220 lbs</li>
-              <li>Is Imported</li>
+              <li>Name: JS MONSTA BOX 2020 SQUASH TAIL EASY RIDER SURFBOARD - FCS II</li>
+              <li>Length: 70.8" or 61.32</li>
+              <li>Width: 19 1/2" or 19 7/8"</li>
+              <li>Thickness: 2 1/2" or 2 5/8"</li>
+              <li>Volume: 30L or 33.1L</li>
+              <li>Fin Setup: Tri-Fin FCS II</li>
+              <li>Tech: Poly</li>
+              <li>Tail Shape: Squash</li>
             </ul>
           </a>
         </div>
         <div class="col-sm jumbotron">
-          <a href="https://www.tillys.com/product/retrospec-zed-pintail-41-whitecaps-longboard-skateboard/38532495701.html" class="d-block mb-4 h-100">
-            <img class="img-fluid img-thumbnail" src="images/RETROSPEC_Zed_Pintail_Whitecaps_Longboard_Skateboard.png" alt="">
+          <a href="https://www.surfstationstore.com/collections/surfboards/products/lost-hydra-surfboard-libtech" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="images/LOST_HYDRA_SURFBOARD_LIBTECH.png" alt="">
             <p>Detail List</p>
             <ul>
-              <li>Name: Retrospec Zed Pintail 41" longboard skateboard</li> 
-              <li>ZED Pintail weaves California beach nostalgia</li>
-              <li>41 inches bamboo and Canadian maple</li> 
-              <li>70x51mm 85a PU wheels</li>
-              <li>ABEC-7 bearings</li>
-              <li>Weight Limit: 220 lbs</li>
-              <li>Is Imported</li>
+              <li>Name: LOST HYDRA SURFBOARD - LIBTECH</li> 
+              <li>Length: 63.6"</li>
+              <li>Width: 20.25"</li>
+              <li>Thickness: 2.5"</li>
+              <li>Volume: 30.5L</li>
+              <li>Fin Setup: 5-Fin FCS II Compatible</li>
+              <li>Tech: LibTech</li>
+              <li>Tail Shape: Split Diamond</li>
             </ul>
           </a>
         </div>
         <div class="col-sm jumbotron "style="position: relative; right: -20px;">
-          <a href="https://www.tillys.com/product/star-wars-element-mandalorian-quad-8.0-complete-skateboard/382828957.html?dwvar_382828957_color=957" class="d-block mb-4 h-100">
-            <img class="img-fluid img-thumbnail" src="images/Star_Wars_Mandalorian_skateboard.png" alt="">
+          <a href="" class="d-block mb-4 h-100">
+            <img class="img-fluid img-thumbnail" src="images/SHARP_EYE_DISCO_INFERNO_FUSION_DUAL_CORE_SURFBOARD_FCS_II.png" alt="">
             <p>Detail List</p>
             <ul>
-              <li>Name: STAR WARS | ELEMENT Mandalorian Quad 8.0" Complete Skateboard</li>
-              <li>7-ply maple deck construction with graphics from The Mandalorian</li> 
-              <li>5.25" Element brand trucks</li>
-              <li>52mm wheels</li>
-              <li>Abec 5 bearings</li>
-              <li>Grip tape</li> 
-              <li>Dimensions: 8.0" x 31.5</li>
-              <li>Is Imported</li>
+              <li>Name: SHARP EYE DISCO INFERNO FUSION DUAL-CORE SURFBOARD - FCS II</li>
+              <li>Length: 67.2"</li>
+              <li>Width: 18 1/2"</li>
+              <li>Thickness: 2.35"</li>
+              <li>Volume: 24.5</li>
+              <li>Fin Setup: Tri Fin FCS II</li>
+              <li>Tech: Fusion Dual-Core</li>
+              <li>Tail Shape: Round</li>
             </ul>
           </a>
         </div>

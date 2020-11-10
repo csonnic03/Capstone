@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
     <link rel="stylesheet" type="text/css" href="css/styles.css"/>
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
     <title>Capstone</title>
 
     <!--Bootstrap CSS-->
@@ -22,23 +22,21 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About Us</a>
+              <a class="nav-link" href="about_us.php">About Us</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact Us</a>
+                <a class="nav-link" href="contact_us.php">Contact Us</a>
               </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Shop
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">SurfBoards</a>
-                <a class="dropdown-item" href="#">SurfBoarding Gear</a>
-                <a class="dropdown-item" href="#">Skateboards</a>
-                <a class="dropdown-item" href="#">SkateBoarding Gear</a>
+                <a class="dropdown-item" href="surfboards.php">SurfBoards</a>
+                <a class="dropdown-item" href="skateboards.php">Skateboards</a>
               </div>
             </li>
             <li class="nav-item">
@@ -61,19 +59,12 @@
       echo "<h1>Welcome to SkateWave</h1>";
       echo '<div class="slideshow-container">
         <div class="mySlides fade">
-        <div class="numbertext">1 / 3</div>
-        <img src="img1.jpg" style="width:100%">
-        <div class="text">Caption Text</div>
+        <div class="numbertext">1 / 2</div>
+        <img src="images/skateboard_wall.png" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
-        <img src="img2.jpg" style="width:100%">
-        <div class="text">Caption Two</div>
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">3 / 3</div>
-        <img src="img3.jpg" style="width:100%">
-        <div class="text">Caption Three</div>
+        <div class="numbertext">2 / 2</div>
+        <img src="images/surfboard_wall.png" style="width:100%">
       </div>
         <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
         <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -84,8 +75,7 @@
         <div style="text-align:center">
           <span class="dot" onclick="currentSlide(1)"></span>
           <span class="dot" onclick="currentSlide(2)"></span>
-          <span class="dot" onclick="currentSlide(3)"></span>
-        </div>'
+        </div>';
       echo '<div class="container">
       <div class="row">
         <div class="col">

@@ -14,11 +14,38 @@ body{
   height: 32px;
 }
 
+
+/*Paragraph*/
+#paragraph{
+  position: relative !important;
+  top: 100px !important;
+}
+
 /*Footer*/
 footer{
   background-color: black;
   color: white;
   text-align: center;
+}
+/*Image On-Hover*/
+.swap img:last-child{display:none}
+.swap:hover img:first-child{display:none}
+.swap:hover img:last-child{display:inline-block}
+
+/* 
+	We set z-index to be higher than the back image, so it's alwyas on the front.
+
+We give it an opacity leaner to .25s, that way when we hover we will get a nice fading effect. 
+*/
+.swap-on-hover .swap-on-hover__front-image {
+  z-index: 9999;
+  transition: opacity .5s linear;
+  cursor: pointer;
+}
+
+/* When we hover the figure element, the block with .swap-on-hover, we want to use > so the front-image is going to have opacity of 0, which means it will be hidden, to the back image will show */
+.swap-on-hover:hover > .swap-on-hover__front-image{
+  opacity: 0;
 }
 
 /*Slideshow*/

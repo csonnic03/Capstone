@@ -14,7 +14,7 @@
 <body>
     <!--Navigation Bar-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.html"><img id="logo" src="images/logo.jfif"></a>
+      <a class="navbar-brand" href="index.html"><img id="logo" src="images/logo.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -22,13 +22,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="about_us.php">About Us</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact_us.php">Contact Us</a>
+                <a class="nav-link" href="contact_us.php">Contact Us <span class="sr-only">(current)</span></a>
               </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -57,7 +57,62 @@
     <!--php-->
     <?php
       echo "<h1>Contact Us</h1>";
-    echo '<footer class="footer">Caleb Sonnichsens Capstone 2020</footer>';
+      echo '<div class="container">
+        <div class="row">
+          <div class="col-sm"></div>
+          <div class="col-sm">
+          <form class="needs-validation" novalidate style="background-color: lightgrey; position: relative; left: -110px; top: 100px;margin: 20px; height: 20rem; width: 50rem">
+          <div class="form-row">
+            <div class="col-md-6 mb-3">
+              <label for="validationCustom01">Name</label>
+              <input type="text" class="form-control" id="validationCustom01" value="Name" required>
+              <div class="valid-feedback">
+                Looks good!
+              </div>
+            </div>
+            <div class="col-md-6 mb-3">
+              <label for="validationCustom02">Email</label>
+              <input type="email" class="form-control" id="validationCustom02" value="Email" required>
+              <div class="valid-feedback">
+                Looks good!
+              </div>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col-md-6 mb-3">
+              <label for="validationCustom03">City</label>
+              <input type="text" class="form-control" id="validationCustom03" required>
+              <div class="invalid-feedback">
+                Please provide a valid city.
+              </div>
+            </div>
+            <div class="col-md-3 mb-3">
+              <label for="validationCustom04">Country</label>
+              <select class="custom-select" id="validationCustom04" required>
+                <option selected disabled value="">Choose...</option>
+                <option>United States</option>
+                <option>Canada</option>
+                <option>United Kingdom</option>
+                <option>Europe</option>
+              </select>
+              <div class="invalid-feedback">
+                Please select a valid Country.
+              </div>
+            </div>
+            <div class="col-md-3 mb-3">
+              <label for="validationCustom05">Message</label>
+              <input type="text" class="form-control" id="validationCustom05" required>
+              <div class="invalid-feedback">
+                Please provide a message.
+              </div>
+            </div>
+          </div>
+          <button class="btn btn-primary" type="submit">Submit form</button>
+        </form>
+          <div class="col-sm"></div>
+        </div>
+      </div>';
+      echo '<footer style="position: relative; bottom: -250px;" class="footer">Caleb Sonnichsens Capstone 2020</footer>';
 
     ?>
     <!--Bootstrap JS-->
